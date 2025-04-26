@@ -1,0 +1,13 @@
+name: weather_app
+description: A simple weather app using Flutter and OpenWeatherMap API.
+
+environment:
+  sdk: '>=3.7.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+
+flutter:
+  uses-material-design: true
